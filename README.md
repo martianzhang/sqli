@@ -1,6 +1,6 @@
 # Introduction
 
-`sqli` is a simple wrap of [libinjection](https://github.com/client9/libinjection) C library.
+`sqli` is a simple wrap of [libinjection](https://github.com/client9/libinjection) C library. Only test Linux, not support MacOS, Windows system.
 
 ## Example 
 
