@@ -11,7 +11,7 @@ Download vendor and build static library
 go get -d github.com/martianzhang/sqli
 
 # build static library
-cd ~/go/sr/github.com/martianzhang/sqli && make test
+cd ~/go/src/github.com/martianzhang/sqli && make libinjection
 ```
 
 Go code example
@@ -30,11 +30,3 @@ Build & run example
 make example
 ./example/main
 ```
-
-## Run test case
-
-```bash
-make test
-```
-
-
